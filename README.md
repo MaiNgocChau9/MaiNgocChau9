@@ -1,3 +1,6 @@
+# Hi there 👋
+<img src="./nyan-cat.gif">
+
 ## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100089923300358) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCDujpOmBR_3iV6Wkdd8A5xA) 
 
