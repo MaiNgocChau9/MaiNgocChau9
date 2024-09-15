@@ -2,11 +2,11 @@
 
 <img src="./nyan-cat.gif">
 
+<br>
+
 ## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100089923300358) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@maingocchau910) 
 
-ᅠ
-ᅠ
 <h2>💻 Tech Stack</h2>
 <div align=center>
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
